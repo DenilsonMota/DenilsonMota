@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Denilson Mota 👋
 
 - 🔭 Atualmente estou trabalhando como Técnico Telecom
-- 🌱 Estudando o Módulo II do curso técnico em Desenvolvimento de sitemas SENAI-BA
+- 🌱 Estudando o Módulo II do Curso Técnico em Desenvolvimento de Sitemas SENAI-BA
 
 
 <div>
