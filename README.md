@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando como Técnico Telecom.
 - 👨‍🎓 Estudante do Curso de Sitemas de Informação - UniFTC Feira de Santana.
+- 🎓 Estou aprimorando meus estudos com o curso do B7Web.
 
 
 <div>
