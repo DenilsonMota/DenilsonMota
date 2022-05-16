@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Denilson Mota 👋
 
 - 🔭 Atualmente estou trabalhando como Técnico Telecom.
-- 👨‍🎓 Estudando o Módulo II do Curso Técnico em Desenvolvimento de Sitemas - SENAI Feira de Santana. 
+- 👨‍🎓 Estudante do Curso de Sitemas de Informação - UniFTC Feira de Santana.
 
 
 <div>
